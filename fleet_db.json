@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Raptor-01",
+        "id": 101,
+        "missions": [
+            "Recon",
+            "Surveillance"
+        ],
+        "battery": 85
+    },
+    {
+        "name": "Ghost-02",
+        "id": 102,
+        "missions": [
+            "Delivery",
+            "Transport"
+        ],
+        "battery": 100
+    },
+    {
+        "name": "Shadow-03",
+        "id": 103,
+        "missions": [
+            "Night-Ops"
+        ],
+        "battery": 20
+    }
+]
