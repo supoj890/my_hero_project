@@ -26,4 +26,4 @@ telemetry_data_compact = [
 print("--- Stitched Telemetry Data ---")
 for entry in telemetry_data_compact:
     print(entry)
-    
+     
