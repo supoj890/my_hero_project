@@ -1,0 +1,12 @@
+[
+    {
+        "id": 103,
+        "status": "Down",
+        "battery": 0
+    },
+    {
+        "id": 105,
+        "status": "Maintenance",
+        "battery": 12
+    }
+]
