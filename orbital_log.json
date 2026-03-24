@@ -1,0 +1,8 @@
+[
+    {
+        "drone": "Atlas-01",
+        "target": "Mars North Pole",
+        "result": "Success",
+        "remaining_battery": 30
+    }
+]
